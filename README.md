@@ -1,2 +1,2 @@
 # freeMusice
-<p style="color:red">一起看</p>
+<span style="color:red">一起看</span>
