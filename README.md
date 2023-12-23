@@ -1,2 +1,2 @@
 # freeMusice
-一起听 一起聊 一起看
+<p style="color:red">一起看</p>
